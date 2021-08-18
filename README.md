@@ -1,13 +1,21 @@
-<div align="center">
+<div>
  <h1> Anderson Paim </h1>
 </div>
-<h4 align="center"> Unity game developer </h4>
+
+- 💻 Atualmente trabalhando como programador de jogos unity.
+- 📚 Estudante de Jogos Digitais na Universidade do Vale do Rio dos Sinos(UNISINOS).
+
 <br> </br>
 <div align="center"> 
   <a href="https://github.com/andersonpaim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonpaim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonpaim&hide=stars,issues,contributed&hide_rank=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonpaim&hide=shaderlab&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
+ 
+<div>
+  <h1> Skills </h1>
+</div>
+ 
 <div style="display: inline_block" align="center"> <br>
    <img align="center" alt="Unity" height="30" width="90" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
    <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -17,6 +25,10 @@
 </div>
   
   ##
+ 
+<div>
+  <h1> Contato </h1>
+</div>
  
 <div align="center"> 
  	<a href="https://andersonpaim.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
