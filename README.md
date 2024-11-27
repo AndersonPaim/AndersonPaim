@@ -1,5 +1,7 @@
-
-<h2> 👾 Unity Programmer <h2>
+<div>
+ <h2>  Hello my name is Anderson Paim 👋 <br> <br>👩‍💻 About me </h2>
+</div>
+ - 💻 Unity Programmer.
   
 <div>
   <h2> 💻 Skills </h2>
