@@ -1,8 +1,7 @@
 <div>
- <h2>  Hello my name is Anderson Paim 👋 <br> <br>👩‍💻 About me </h2>
+ <h2>  Hello my name is Anderson Paim 👋 </h2>
 </div>
- - 💻 Unity Programmer.
-  
+
 <div>
   <h2> 💻 Skills </h2>
 </div>
@@ -16,7 +15,7 @@
 </div>
 
 <div>
-  <h2> 📫 Contato </h2>
+  <h2> 📫 Contact </h2>
 </div>
  
 <div> 
