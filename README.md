@@ -1,9 +1,5 @@
-<div>
- <h2>  Olá me chamo Anderson Paim 👋 <br> <br>👩‍💻 Sobre mim </h2>
-</div>
-
-- 💻 Atualmente trabalhando como programador de jogos unity.
-- 📚 Estudante de Jogos Digitais na Universidade do Vale do Rio dos Sinos(UNISINOS).
+- 💻 Unity Programmer.
+  
 <div>
   <h2> 💻 Skills </h2>
 </div>
